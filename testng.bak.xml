@@ -4,7 +4,7 @@
 <suite name="RedBus Automation Suite">
     <test name="Cucumber Test Execution">
         <classes>
-            <class name="com.soumyajit.runners.TestRunner"/>
+            <class name="soumyajit.runners.TestRunner"/>
         </classes>
     </test>
 </suite>

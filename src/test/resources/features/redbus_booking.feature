@@ -18,5 +18,5 @@ Feature: RedBus ticket booking - search and seat selection
     Examples:
       | fromCity | toCity    | journeyDate      |
       | Kolkata  | Asansol  | 1 March 2026     |
-      | Chennai  | Bangalore | 26 February 2026 |
+      | Chennai  | Bangalore | 26 March 2026 |
       | Delhi    | Jaipur    | 6 March 2026     |
